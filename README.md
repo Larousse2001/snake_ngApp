@@ -30,3 +30,7 @@ $ ng serve
 ```
 
 Visit http://localhost:4200 and play!
+
+
+
+Link of the game : https://games-1694a.web.app/
