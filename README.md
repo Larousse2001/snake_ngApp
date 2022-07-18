@@ -4,9 +4,9 @@
 [![Dependencies][dependencies]][dependencies-url]
 [![Dev Dependencies][dev-dependencies]][dev-dependencies-url]
 
-> ngx-Snake is simple Snake arcade game implemented in Angular 7 (latest 7.1.4)
+> ngx-Snake is simple Snake arcade game implemented in Angular 7 
 
-#### Demo (Updated: 06/01/2019)
+#### Demo 
 
 https://github.com/Larousse2001
 
@@ -30,7 +30,5 @@ $ ng serve
 ```
 
 Visit http://localhost:4200 and play!
-
-
 
 Link of the game : https://games-1694a.web.app/
