@@ -1,9 +1,5 @@
 # ngx-Snake
 
-[![build-url][build-url-svg]][build-url]
-[![Dependencies][dependencies]][dependencies-url]
-[![Dev Dependencies][dev-dependencies]][dev-dependencies-url]
-
 > ngx-Snake is simple Snake arcade game implemented in Angular 7 
 
 #### Demo 
