@@ -4,7 +4,7 @@
 
 #### Demo 
 
-https://github.com/Larousse2001
+[https://github.com/Larousse2001](https://games-1694a.web.app/)
 
 #### Controls
 
@@ -26,5 +26,3 @@ $ ng serve
 ```
 
 Visit http://localhost:4200 and play!
-
-Link of the game : https://games-1694a.web.app/
